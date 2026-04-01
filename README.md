@@ -120,4 +120,3 @@ The model successfully generates **high-quality paraphrased text** that:
 * Improves sentence structure
 * Enhances readability
 
-⭐ If you found this project useful, consider **starring the repository**.
